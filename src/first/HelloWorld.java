@@ -1,8 +1,8 @@
 package first;
 
-public class Test{
+public class HelloWorld{
   
-  public static void main(Strig[] args){
+  public static void main(String[] args){
     System.out.println("hello ");
   }
 }
