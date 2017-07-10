@@ -2,4 +2,6 @@ package first;
 
 public class TestOne {
 
+	private String a;
+	public int b;
 }
