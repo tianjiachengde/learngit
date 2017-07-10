@@ -2,5 +2,5 @@ package first;
 
 public class TestTwo {
 
-	public int a =2;
+	public int a = 7;
 }
